@@ -25,13 +25,13 @@ export default function Contact() {
           </p>
 
           <div className="mt-8 space-y-3">
-            <a href="mailto:hello@example.com" className="flex items-center gap-3 text-sm text-muted hover:text-text transition-colors">
-              <Mail size={18} /> hello@example.com
+            <a href="mailto:khantabiullah1@gmail.com" className="flex items-center gap-3 text-sm text-muted hover:text-text transition-colors">
+              <Mail size={18} /> khantabiullah1@gmail.com
             </a>
             <a href="https://github.com/Tabiullahkhan" target="_blank" rel="noreferrer" className="flex items-center gap-3 text-sm text-muted hover:text-text transition-colors">
               <Github size={18} /> github.com/Tabiullahkhan
             </a>
-            <a href="#" className="flex items-center gap-3 text-sm text-muted hover:text-text transition-colors">
+            <a href="https://www.linkedin.com/in/tabiullah-khan/" className="flex items-center gap-3 text-sm text-muted hover:text-text transition-colors">
               <Linkedin size={18} /> LinkedIn
             </a>
           </div>
