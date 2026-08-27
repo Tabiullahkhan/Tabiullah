@@ -31,7 +31,7 @@ export default function Contact() {
             <a href="https://github.com/Tabiullahkhan" target="_blank" rel="noreferrer" className="flex items-center gap-3 text-sm text-muted hover:text-text transition-colors">
               <Github size={18} /> github.com/Tabiullahkhan
             </a>
-            <a href="https://www.linkedin.com/in/tabiullah-khan/" className="flex items-center gap-3 text-sm text-muted hover:text-text transition-colors">
+            <a href="https://www.linkedin.com/in/tabiullah-khan/" target="_blank" rel="noreferrer" className="flex items-center gap-3 text-sm text-muted hover:text-text transition-colors">
               <Linkedin size={18} /> LinkedIn
             </a>
           </div>

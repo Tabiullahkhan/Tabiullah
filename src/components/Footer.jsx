@@ -17,13 +17,13 @@ export default function Footer() {
           <a href="https://github.com/Tabiullahkhan" aria-label="GitHub" className="hover:text-teal transition-colors">
             <Github size={18} />
           </a>
-          <a href="#" aria-label="LinkedIn" className="hover:text-teal transition-colors">
+          <a href="https://www.linkedin.com/in/tabiullah-khan/" target="_blank" rel="noreferrer" aria-label="LinkedIn" className="hover:text-teal transition-colors">
             <Linkedin size={18} />
           </a>
-          <a href="mailto:hello@example.com" aria-label="Email" className="hover:text-teal transition-colors">
+          <a href="mailto:khantabiullah1@gmail.com" aria-label="Email" className="hover:text-teal transition-colors">
             <Mail size={18} />
           </a>
-          <a href="#" aria-label="Facebook" className="hover:text-teal transition-colors">
+          <a href="https://www.facebook.com/tabiullah.khan/" target="_blank" rel="noreferrer" aria-label="Facebook" className="hover:text-teal transition-colors">
             <Facebook size={18} />
           </a>
         </div>
