@@ -47,7 +47,7 @@ export const projects = [
     featured: true,
     tech: ['React', 'Vite', 'Node.js', 'Express', 'MongoDB Atlas', 'Stripe', 'Cloudinary', 'Tailwind CSS'],
     github: 'https://github.com/Tabiullahkhan/mern-ecom-proiject.git',
-    demo: null,
+    demo:  'https://mern-ecom-proiject.vercel.app',
     detail: {
       problem:
         'Wanted to go beyond CRUD demos and build a storefront with the pieces a real marketplace needs: auth, roles, payments and reviews.',
